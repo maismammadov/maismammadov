@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Mais 👋
 
-<!--
-**maismammadov/maismammadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst focused on SQL / PL-SQL based data analysis and Power BI dashboards,
+with strong Excel skills and basic Python knowledge.
 
-Here are some ideas to get you started:
+### 🔹 Skills
+- SQL / PL-SQL
+- Power BI (Data Modeling, DAX)
+- Excel (Advanced)
+- Python (Basic)
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Portfolio
+This GitHub profile contains my data analytics projects, including SQL-based analysis
+and Power BI dashboards built on real and sample datasets.
+
+### 🔹 Contact
+Open to freelance and collaboration opportunities.
